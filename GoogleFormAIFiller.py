@@ -7,7 +7,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 # === CONFIG ===
 CHROMEDRIVER_PATH = "chromedriver-mac-x64/chromedriver"  # 🔁 UPDATE THIS
-openai.api_key = "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"       # 🔁 UPDATE THIS
+openai.api_key = ""       # 🔁 UPDATE THIS
 
 # === GPT TEXT INPUT HANDLER ===
 def generate_ai_answer_for_text(question_text):
