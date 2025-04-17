@@ -5,7 +5,7 @@ import difflib
 from openai import OpenAI
 from playwright.async_api import async_playwright
 
-client = OpenAI(api_key="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")  # replace with your actual key
+client = OpenAI(api_key="")  # replace with your actual key
 #TARGET_URL = "https://docs.google.com/forms/d/1uMkzOGtiVN_VqtPPjTInpd1nP64Ii_3vdMaNlwU6Z8Y/viewform"
 
 TARGET_URL = "https://www.jotform.com/build/251057968491165"

@@ -4,7 +4,7 @@ import re
 from openai import OpenAI
 from playwright.async_api import async_playwright
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 TARGET_URL = "https://www.jotform.com/build/251060439239152?s=templates"
 
 
