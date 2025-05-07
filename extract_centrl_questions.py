@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 
 # ====== CONFIG ======
 LOGIN_EMAIL = "bshetty@oncentrl.com"
-LOGIN_PASSWORD = "oprahWIN1233"
+LOGIN_PASSWORD = "xxxx"
 LOGIN_URL = "https://web.oncentrl.com/#/login"
 QUESTIONNAIRE_URL = "https://web.oncentrl.com/#/cc/questionnaire/details/answering/ondemand/147212?searchText="
 OUTPUT_FILE = "centrl_questions_gpt.json"
