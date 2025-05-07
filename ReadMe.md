@@ -30,7 +30,6 @@ This project automates the extraction, answering, and autofill of web-based ques
   - Logs all generated answers.
 
 ---
-
 ## 🛠️ Tech Stack
 
 - **Python 3.8+**
